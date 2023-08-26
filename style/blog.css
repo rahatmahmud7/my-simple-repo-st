@@ -2,3 +2,7 @@ h1{
     background-color: brown;
     width: 500px;
 }
+p{
+    background-color: burlywood;
+    border-radius: 8px;
+}
